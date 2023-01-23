@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://linkedin.com/in/ashish-gupta-6a144a221" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="ashish-gupta-6a144a221" height="30" width="40" /></a>
 <a href="https://instagram.com/whoisashish._" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="whoisashish._" height="30" width="40" /></a>
 </p>
