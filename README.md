@@ -10,6 +10,9 @@
 🌱 I’m currently trying to learn everything 😀<br>👨‍💻 All of my projects are available at ashfolio.epizy.com<br>💬 Ask me about MERN stack, Frontend Development<br>📫 How to reach me ashish189000@gmail.com<br>⚡ Fun fact I am always curious about certain things 😄
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/whoisashish._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashish-gupta-6a144a221/) 
 
@@ -23,8 +26,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AshishGupta18&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
