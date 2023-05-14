@@ -61,7 +61,7 @@
 </p>
 </details>
 </table>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishgupta18&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="avnee-gy" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishGupta18&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="ashish" /></p>
   
   
 
