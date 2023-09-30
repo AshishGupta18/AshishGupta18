@@ -43,33 +43,6 @@
 
 
 
-# <h3 align="center">📊 GitHub Stats:</h3></br>
-
-<table>
-<tr>
-  <td align="center">
-  <p align="center">
-  <a href="https://github.com/AshishGupta18">
-    <img align="center" height="300px" width="600" src="https://github-readme-stats.vercel.app/api?username=ashishgupta18&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true"/>
-  </a>
-  </td>
-  <td align="center">
-  <a href="https://github.com/ashishgupta18">
-  <img align="center" height="200px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishgupta18&theme=synthwave&hide_border=true" />
-  </a>
-  </td>
-</p>
-</details>
-</table>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishGupta18&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="ashish" /></p>
-  
-  
-
-
-## <h3 align="center"> 🏆 GitHub Trophies </h3></br>
-
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=ashishgupta18&theme=dracula&no-frame=true&no-bg=true&margin-w=4"></img></p>
-
 
   
 
